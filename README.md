@@ -202,7 +202,7 @@ Visual programming is implemented through an interface in which workflows are cr
 ### 4.1 SMOKING AND BEING OVERWEIGHT ATTRACTS COVID19
 
 
-![](read_me/16.jpg)
+![](read_me/16.JPG)
 
 
 As per the above research done , we found an intrusting pattern .According to which if a country has HIGH GDP per capita i.e. rich , median age is old is combined with high cigarette consumption per year and average BMI i.e. body mass index is FAT .
