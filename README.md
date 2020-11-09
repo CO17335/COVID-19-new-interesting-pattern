@@ -137,7 +137,7 @@ The data we have collected may contain errors, missing values, noisy or inconsis
 
 In this step, we used orange to rename the files to represent the dates when the data was captured and to remove inconsistencies such as the use of abbreviations like &quot;UK&quot;, &quot;US&quot; to represent
 
-![](RackMultipart20201109-4-1jqtagy_html_ca79a5c7ee153db9.jpg) countries, and disambiguation of names such as &quot;China&quot; and &quot;China (Mainland)&quot; to represent the same things.
+![](read_me/10.jpg)
 
 #### 2.2.3 Data Integration
 
@@ -147,13 +147,13 @@ Data cleaning in data mining is the process of detecting and removing corrupt or
 
 In computing, Data transformation is the process of converting data from one format or structure into another format or structure. It is a fundamental aspect of most data integration and data management tasks such as data wrangling, data warehousing, data integration and application integration.
 
-![](read_me/10.jpg)
+![](read_me/11.jpg)
 
 #### 2.2.5 Data Mining
 
 Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.[1] Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use
 
-![](read_me/11.jpg)
+![](read_me/12.jpg)
 
 #### 2.2.6 Pattern Evaluation and Knowledge Presentation
 
@@ -165,7 +165,7 @@ This step involves visualization, transformation, removing redundant patterns et
 
 WEKA - an open source software provides tools for data preprocessing, implementation of several Machine Learning algorithms, and visualization tools so that you can develop machine learning techniques and apply them to real-world data mining problems. What WEKA offers is summarized in the following diagram −
 
-![](read_me/12.jpg)
+![](read_me/13.jpg)
 
 If you observe the beginning of the flow of the image, you will understand that there are many stages in dealing with Big Data to make it suitable for machine learning −
 
@@ -185,7 +185,7 @@ Thus, the use of WEKA results in a quicker development of machine learning model
 
 Now that we have seen what WEKA is and what it does, in the next chapter let us learn how to install WEKA on your local computer.
 
-![](read_me/13.jpg)
+![](read_me/14.jpg)
 
 ### 3.2 Orange
 
@@ -195,13 +195,13 @@ Orange components are called widgets and they range from simple data visualizati
 
 Visual programming is implemented through an interface in which workflows are created by linking predefined or user-designed widgets, while advanced users can use Orange as a Python library for data manipulation and widget alteration
 
-![](read_me/14.jpg)
+![](read_me/15.jpg)
 
 # CHAPTER 4: PATTERNS FOUND
 
 ### 4.1 SMOKING AND BEING OVERWEIGHT ATTRACTS COVID19
+![](read_me/16.jpg)
 
-![](read_me/15.jpg)
 
 As per the above research done , we found an intrusting pattern .According to which if a country has HIGH GDP per capita i.e. rich , median age is old is combined with high cigarette consumption per year and average BMI i.e. body mass index is FAT .
 
@@ -211,4 +211,4 @@ As Covid19 is a respiratory disease, it was obvious that Covid19 will be more ha
 
 Also , Obesity can weaken the body&#39;s immune system and reduce its ability to fight off infections.
 
-![](RackMultipart20201109-4-1jqtag
+
